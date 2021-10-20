@@ -1,2 +1,2 @@
-# eduardavargas1.gitithub.io
+# eduardavargas1.gitthub.io
 Meu primeiro site no github.
